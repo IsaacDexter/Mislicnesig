@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "28dd6363091b8b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde95519ea9c3075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b3a357f1e4d5710",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9647bd1858f819e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal Kingdoms/Aloghsterre/Pont-Deri/Fulbairn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7b920e4b2583fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "813b59b9d6a8020e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d12b8c8711515f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b93b0458267bd5bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a7ade1e3914ec0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b78fa22aa6eaab37",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9990aa18c84451f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c604fccc2edd5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "906e1c08cad4cb3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "211506eabed482a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "325aaf3bf59d4c95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b3a357f1e4d5710",
+  "lastOpenFiles": [
+    "Internal Kingdoms/Aloghsterre/Pont-Deri/Fulbairn.md",
+    "Items/Fulbairn's Collapsible Cascade.md",
+    "Items/Fulbairn's Folding Ford.md",
+    "History/Age of Persecution.md",
+    "Internal Kingdoms/Aloghsterre/Pont-Deri/Pont-Deri.md",
+    "Internal Kingdoms/Aloghsterre/Pont-Deri/Brist's Bakery.md",
+    "Internal Kingdoms/Aloghsterre/Pont-Deri/Jyke Estate.md",
+    "Internal Kingdoms/Aloghsterre/Pont-Deri",
+    "Fulbairn’s Folding Ford.md",
+    "Items/Plait Wishbone.md",
+    "External Kingdoms/Faerie/Elves.md",
+    "2023-10-15.md",
+    "Random Ideas.md",
+    "Items",
+    "Internal Kingdoms/Aloghsterre/Oakenhead/Leaden Pack Day.md",
+    "History/Hollytide.md",
+    "History/Pre-Hollytide.md",
+    "History/Reign of Starlight.md",
+    "External Kingdoms/Faerie/Sídhe.md",
+    "History/Age of Miracles.md",
+    "History/The Conquests.md",
+    "History/The Blinking.md",
+    "History/The Forgotten Epoch.md",
+    "Internal Kingdoms/Mislicnesig/Public Opinion on Magic.md",
+    "History",
+    "Theology/Patrons/Other Patrons.md",
+    "Theology/Theology.md",
+    "External Kingdoms/Faerie/Tul/Red Mollie.md",
+    "Theology/Artefact Faith.md",
+    "Theology",
+    "Theology/Patrons",
+    "External Kingdoms/Faerie/Tul",
+    "External Kingdoms/Faerie",
+    "External Kingdoms/Overseas",
+    "External Kingdoms",
+    "Internal Kingdoms/Oferlecgan",
+    "Untitled.canvas"
+  ]
+}

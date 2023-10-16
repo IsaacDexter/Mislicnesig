@@ -1,0 +1,13 @@
+* Weh-ohl-can-tam
+* The first of [[The Three Colleges]] set up by [[The Prince Under Starlight]] during the early years of his rule, this is the far more aloof of [[The Three Colleges]] following no strict curriculum, and with little in its library.
+* [[The Prince Under Starlight]] set up this college before he could write, under the belief magic should be taught intimately from master to apprentice.
+* Definitely the smallest of the colleges, featuring only a handful of classrooms and less than a dozen “masters”, each of which taking on only a couple apprentices - there are easily only 50 students within the college at any one time.
+* In spite of its small size, only the finest in the land are employed as professors, and are held in very very high esteem - a magical education here is done with such intensity that it can train a powerful magic user in as little as two years.
+* Many of the professors and selected students are already sorcerers, containing an innate gift to be honed in the education, though some exceptionally gifted people without natural magical capability have been taken on.
+* Incredibly few students here have failed their magical education, though some have taken up to 7 years on their courses.
+* The college simply will not accept failure, the course is said to be able to “turn anyone into a magician, given time”.
+* A magical education here is without expense - the teachers and graduates have enough magical capability to not need money.
+* The Headmaster of Weolcantam is often also one of the [[Starlit Servants]], one of the few people knowledgeable of [[The Prince Under Starlight]]’s current whereabouts.
+* The college is actually used to vet potential [[Starlit Servants]], with truly exemplary graduates conferred to in secret from the rest of the staff and pupils to be offered an invitation.
+
+#aloghsterre #the-three-colleges

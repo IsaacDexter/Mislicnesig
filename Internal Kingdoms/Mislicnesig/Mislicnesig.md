@@ -1,0 +1,5 @@
+* Main setting for the campaign.
+* Officially recognises itself as a single country with a sole set of laws, and a single steward ([[Eustace II]]), but in reality the country has been in disarray for its existence and is in fact made up of several countries, which for the most part remain peaceful with one another.
+* Officially ruled by it's steward, [[Eustace II]], as acting ruler-in-waiting for [[The Prince Under Starlight]]’s return, but his rule isn’t recognised anywhere except internally within [[Aloghsterre]].
+* Somewhat consistent ecosystem reflective of England, with magic being the main cause for different biomes - it is colder further north, and more barren and snowy, while certain areas to the northeast are more coastal and almost Mediterranean.
+* No official religion, despite [[The Prince’s Cult]] taking massive precedence within the capital: while the lands within Mislicnesig do not mind [[Eustace II]]’s figurehead rule, they would resent a single religion being forced upon a region with such wildly diverse theologies.
