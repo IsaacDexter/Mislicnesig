@@ -8,24 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#the-three-colleges  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "tag:#aloghsterre  ",
       "color": {
         "a": 1,
         "rgb": 14062428
-      }
-    },
-    {
-      "query": "tag:#religion  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
       }
     },
     {
@@ -43,17 +29,24 @@
       }
     },
     {
-      "query": "tag:#tul  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084212
-      }
-    },
-    {
       "query": "tag:#faerie  ",
       "color": {
         "a": 1,
         "rgb": 884485
+      }
+    },
+    {
+      "query": "tag:#banofdune",
+      "color": {
+        "a": 1,
+        "rgb": 10837206
+      }
+    },
+    {
+      "query": "tag:#dasheal  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -68,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.13168724279835836,
-  "close": true
+  "close": false
 }

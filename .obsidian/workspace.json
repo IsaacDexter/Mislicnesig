@@ -11,8 +11,20 @@
             "id": "9d9114d6bde0afe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "3c99131d6d9811e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal Kingdoms/Bɑ̄nofdune/Chyne.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -121,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,8 +151,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d9114d6bde0afe2",
+  "active": "c4d12b8c8711515f",
   "lastOpenFiles": [
+    "Internal Kingdoms/Dasheal/Scyldhrig.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Gmarthryll.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Chyne.md",
+    "Items/Plait Wishbone.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Ridgefound.md",
+    "Gnomes.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Drow.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Dwarves.md",
+    "Internal Kingdoms/Ganmarn Peaks.md",
+    "Internal Kingdoms/Aloghsterre/Rultby/Pauscht Caravan.md",
+    "Internal Kingdoms/Aloghsterre/Rultby/Raymund.md",
+    "Internal Kingdoms/Aloghsterre/Rultby/Rultby.md",
+    "Random Ideas.md",
+    "Internal Kingdoms/Bɑ̄nofdune/Bānofdune.md",
+    "Internal Kingdoms/Dasheal/Dasheal.md",
+    "Internal Kingdoms/Bɑ̄nofdune",
+    "Internal Kingdoms/Oferlecgan/Oferlecgan.md",
+    "Internal Kingdoms/Bɑ̄nofdune",
+    "Internal Kingdoms/Attermoor/Attermoor.md",
+    "Internal Kingdoms/Dasheal",
     "Theology/Patrons/The True Prince Under Starlight.md",
     "External Kingdoms/Faerie/Tul/Red Mollie.md",
     "External Kingdoms/Faerie/Puttock, Holly King.md",
@@ -147,35 +180,15 @@
     "Ynys' Precepts.md",
     "Internal Kingdoms/Aloghsterre/Scricke/Ynys.md",
     "Internal Kingdoms/Aloghsterre/Scricke/Scrike.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Rultby.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Raymund.md",
     "Internal Kingdoms/Aloghsterre/Scricke/Grove & Hadh Tunnel.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Pauscht Caravan.md",
     "Internal Kingdoms/Aloghsterre/Pont-Deri/Brist's Bakery.md",
     "Internal Kingdoms/Aloghsterre/Scricke",
-    "Random Ideas.md",
-    "Items/Plait Wishbone.md",
     "Internal Kingdoms/Aloghsterre/Rultby",
-    "Internal Kingdoms/Aloghsterre/Pont-Deri/Jyke Estate.md",
-    "Internal Kingdoms/Aloghsterre/Pont-Deri/Pont-Deri.md",
-    "Internal Kingdoms/Aloghsterre/Pont-Deri/Fulbairn.md",
-    "Items/Fulbairn's Collapsible Cascade.md",
-    "Items/Fulbairn's Folding Ford.md",
-    "History/Age of Persecution.md",
     "Internal Kingdoms/Aloghsterre/Pont-Deri",
-    "Fulbairn’s Folding Ford.md",
-    "External Kingdoms/Faerie/Elves.md",
-    "2023-10-15.md",
     "Items",
-    "Internal Kingdoms/Aloghsterre/Oakenhead/Leaden Pack Day.md",
-    "History/Hollytide.md",
-    "History/Pre-Hollytide.md",
     "History",
     "Theology",
     "Theology/Patrons",
-    "External Kingdoms/Faerie/Tul",
-    "External Kingdoms/Faerie",
-    "External Kingdoms/Overseas",
     "Untitled.canvas"
   ]
 }

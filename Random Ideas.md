@@ -33,4 +33,9 @@
 * As such, he is a ranger, knowing a small amount of Druidic spells after his stint, but staying true to his combat origins.
 * Friendly Assisting NPC to the party.
 * Used in a quest pertaining to his story .
+## Marble
+* Marble is prized among nobility, both local and expatriated, and as such is quarried and exported on large scale
+* Among the marble is found lead, silver and zinc (used to make brass) deposits
+
+
 
