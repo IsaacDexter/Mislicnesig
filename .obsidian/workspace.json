@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "592a3e6805acba99",
+        "id": "6c94e285806eef03",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2a60327d2508f6",
+            "id": "ec5c0735e3771aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carcolosseum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carcolosseum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carcolosseum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Carcolosseum.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,19 +170,19 @@
         "x": 960,
         "y": 0,
         "width": 960,
-        "height": 1040,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ed2a60327d2508f6",
+  "active": "ec5c0735e3771aeb",
   "lastOpenFiles": [
+    "Carcolosseum.md",
     "Untitled.canvas",
     "Panga.md",
     "Kitterland.md",
     "Regal Consortium of Pulit-Aspell.md",
-    "Carcolosseum.md",
     "History/Reign of Starlight.md",
     "Internal Kingdoms/Aloghsterre/Aloghsterre/Starlit Servants.md",
     "Theology/Patrons/Unseen.md",
