@@ -6,6 +6,24 @@
 * A villain who taunts your religions e.g. [[Marin]] is a “frivolous upstart popular amongst drunks and sods”. When challenged/fought he drops to his knees and prays, summoning a bear clad in rose gold armour from a briar of pink roses as a warrior of the goddess of beauty turned ploy.
 * A quest to the [[Crakeeyots]] to get information from an old temple belonging to a rare one indeed: a deified fairy folk hero, laughing tam .
 * Rather than finding his temple devoid, however, tam is still there, thanks to sailors gift faith, though weak.
+* Underground cowboys riding moles and burrowing creatures  
+- Forest whose trees are an octopus' tentacles laying a trap  
+- Snow pirates who orchestrate carefully magically designed avalanches using magic and slide in giant toboggan like ships, like a big network or ski slope  
+- Sky society made of tribals who tame bugs and either ride giant ones or trap little ones in sacks like balloons  
+- Giant hermit crab nestled inside a giant skull with a mausoleum carved into it - which came first, the crab or the carvers?  
+- Desert dwarves who build underground pyramids and direct sandstorms with giant stone wind funnels as transportation/a weapon/method of control  
+- Dwarves in lush mines flourishing with moss  
+- Elves in abandoned variants of said mines cultivating moss and mushrooms  
+- Desert elves who live in a desert that was a dried up ocean bed, who load up drying plants into huge shells and sled/pole around following the rain clouds  
+- Bug elves who build terraced homes up giant snail shells  
+- Desert Gnomes who have technology built on wait and hourglasses, like Rube Goldberg machines that depend on sand and wind  
+- Wizards who tie their beards together, Dwarven perhaps, beards are sacred and the source of their magic  
+- A haunted house with an interior the size of a large city with an extract population and trading routes with the outside, who simply brave the horrors and are used to them  
+- Trawler fishing but along prairies with giant nets catching livestock from above  
+- Nomadic people who train truffle pigs to root out treasure and relics from fresh battlefields  
+- City in a hollowed out Pompeii-style giant/giants with stairs going up the inside  
+## Colour Thief
+A brightly coloured (almost too brightly, like the saturation is turned up just for him) gentleman who's clothes are otherwise very plain, yet he speaks and introduces himself in such a frumpy manner. He travels with a companion, a quiet noblewoman dressed in drab but exceedingly high quality clothes, jewels, well styled hair - all of which seem washed out of colour. She is silent, and is introduced as a mute. The first will introduce them both and request assistance in finding the next in, eventually settling to camp a ways from the side of the road. As they drink, his voice returns to a gruffer, more masculine and common one, and as they eventually settle down to sleep, the party wake to find him gone, alongside one of the party's colours and voice. He has been travelling around like so, collecting the voices and colours of people, the drab dandy he travelled with was one such victim, and pursued him in the promise of what was stolen being returned in the event of the next theft. Perhaps in their speaking, assistance can be gained...
 ## Fisher king Jereth.
 * He wears mail made of hooks linked with fishing line.
 * His court lies on the jetty.

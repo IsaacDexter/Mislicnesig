@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ebb7eb7116961e8",
+        "id": "592a3e6805acba99",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9114d6bde0afe2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c99131d6d9811e9",
+            "id": "ed2a60327d2508f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal Kingdoms/Bɑ̄nofdune/Chyne.md",
+                "file": "Carcolosseum.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prince",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b78fa22aa6eaab37",
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Carcolosseum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Carcolosseum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carcolosseum.md"
+              }
             }
           }
         ],
@@ -138,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,44 +147,80 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4d12b8c8711515f",
+  "floating": {
+    "id": "4a50beb4b56ebb88",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff598703fd9f2012",
+        "type": "window",
+        "children": [
+          {
+            "id": "bbe87287375caccf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c99131d6d9811e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Random Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ed2a60327d2508f6",
   "lastOpenFiles": [
-    "Internal Kingdoms/Dasheal/Scyldhrig.md",
+    "Untitled.canvas",
+    "Panga.md",
+    "Kitterland.md",
+    "Regal Consortium of Pulit-Aspell.md",
+    "Carcolosseum.md",
+    "History/Reign of Starlight.md",
+    "Internal Kingdoms/Aloghsterre/Aloghsterre/Starlit Servants.md",
+    "Theology/Patrons/Unseen.md",
+    "Internal Kingdoms/Aloghsterre/Aloghsterre/Wāg Gleomu.md",
+    "Theology/Religions/The Prince’s Cult.md",
+    "Internal Kingdoms/Mislicnesig/Mislicnesig.md",
+    "Internal Kingdoms/Aloghsterre/Aloghsterre/Aloghsterre.md",
+    "Internal Kingdoms/Aloghsterre/Aloghsterre/Rulers/The Prince Under Starlight.md",
+    "Theology/Religions/Blekkja.md",
+    "Theology/Religions/The Five Mothers.md",
+    "Theology/Religions/Marin.md",
     "Internal Kingdoms/Bɑ̄nofdune/Gmarthryll.md",
-    "Internal Kingdoms/Bɑ̄nofdune/Chyne.md",
-    "Items/Plait Wishbone.md",
-    "Internal Kingdoms/Bɑ̄nofdune/Ridgefound.md",
-    "Gnomes.md",
-    "Internal Kingdoms/Bɑ̄nofdune/Drow.md",
-    "Internal Kingdoms/Bɑ̄nofdune/Dwarves.md",
-    "Internal Kingdoms/Ganmarn Peaks.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Pauscht Caravan.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Raymund.md",
-    "Internal Kingdoms/Aloghsterre/Rultby/Rultby.md",
-    "Random Ideas.md",
-    "Internal Kingdoms/Bɑ̄nofdune/Bānofdune.md",
-    "Internal Kingdoms/Dasheal/Dasheal.md",
+    "Theology/Religions/Communion of Spires.md",
+    "Theology/Religions/Daegan.md",
+    "History/Age of Miracles.md",
+    "History/Age of Persecution.md",
+    "Admiral Aniston De Benfro.md",
+    "History/The Conquests.md",
+    "History/Hollytide.md",
+    "History/The Blinking.md",
+    "History/The Forgotten Epoch.md",
     "Internal Kingdoms/Bɑ̄nofdune",
-    "Internal Kingdoms/Oferlecgan/Oferlecgan.md",
     "Internal Kingdoms/Bɑ̄nofdune",
-    "Internal Kingdoms/Attermoor/Attermoor.md",
     "Internal Kingdoms/Dasheal",
-    "Theology/Patrons/The True Prince Under Starlight.md",
-    "External Kingdoms/Faerie/Tul/Red Mollie.md",
-    "External Kingdoms/Faerie/Puttock, Holly King.md",
-    "Internal Kingdoms/Aloghsterre/Scricke/Scrikian Lycanthropes.md",
-    "Ynys' Precepts.md",
-    "Internal Kingdoms/Aloghsterre/Scricke/Ynys.md",
-    "Internal Kingdoms/Aloghsterre/Scricke/Scrike.md",
-    "Internal Kingdoms/Aloghsterre/Scricke/Grove & Hadh Tunnel.md",
-    "Internal Kingdoms/Aloghsterre/Pont-Deri/Brist's Bakery.md",
     "Internal Kingdoms/Aloghsterre/Scricke",
     "Internal Kingdoms/Aloghsterre/Rultby",
     "Internal Kingdoms/Aloghsterre/Pont-Deri",
     "Items",
     "History",
     "Theology",
-    "Theology/Patrons",
-    "Untitled.canvas"
+    "Theology/Patrons"
   ]
 }

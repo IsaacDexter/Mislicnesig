@@ -5,6 +5,19 @@
     "tags": "tags",
     "Cost": "number",
     "Type": "multitext",
-    "Rarity": "multitext"
+    "Rarity": "multitext",
+    "Size": "text",
+    "AC": "number",
+    "HP": "number",
+    "Speed": "multitext",
+    "STR": "number",
+    "DEX": "number",
+    "CON": "number",
+    "INT": "number",
+    "WIS": "number",
+    "CHA": "number",
+    "Traits": "multitext",
+    "Skills": "multitext",
+    "Level": "number"
   }
 }
