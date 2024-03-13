@@ -11,8 +11,12 @@
             "id": "ec5c0735e3771aeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kitterland.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kitterland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kitterland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kitterland.md"
+              }
             }
           }
         ],
@@ -178,11 +186,11 @@
   },
   "active": "ec5c0735e3771aeb",
   "lastOpenFiles": [
+    "Regal Consortium of Pulit-Aspell.md",
     "Carcolosseum.md",
     "Untitled.canvas",
     "Panga.md",
     "Kitterland.md",
-    "Regal Consortium of Pulit-Aspell.md",
     "History/Reign of Starlight.md",
     "Internal Kingdoms/Aloghsterre/Aloghsterre/Starlit Servants.md",
     "Theology/Patrons/Unseen.md",
