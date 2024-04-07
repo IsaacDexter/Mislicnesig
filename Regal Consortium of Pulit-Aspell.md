@@ -1,1 +1,0 @@
-*Consortium Regis Pulit-Aspell* are a monarchic illegitimate state operating off of [[Mislicnesig]]'s western shores, they control a divide of land encompassing [[Kitterland]] and a portion of [[Dederlic]].

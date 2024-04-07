@@ -4,4 +4,4 @@
 * Gods and kings reigned individual kingdoms and it was a bloody time.
 * Magic was scarcely practised.
 * The [[Unseen]] had much more significance, it was the only time where warlocks outnumbered clerics.
-* Many of the gods of this time were lost after [[The Prince Under Starlight]]’s unification of the land.
+* Many of the gods of this time were lost after [[The Starlit Prince]]’s unification of the land.
