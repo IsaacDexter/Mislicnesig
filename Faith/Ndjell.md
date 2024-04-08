@@ -1,0 +1,1 @@
+A villain who taunts your religions e.g. [[Marin]] is a “frivolous upstart popular amongst drunks and sods”. When challenged/fought he drops to his knees and prays, summoning a bear clad in rose gold armour from a briar of pink roses as a warrior of the goddess of beauty turned ploy, Ndjell (meaning I lure, I instill desire)
