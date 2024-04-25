@@ -39,5 +39,8 @@ A brightly coloured (almost too brightly, like the saturation is turned up just 
 * Marble is prized among nobility, both local and expatriated, and as such is quarried and exported on large scale
 * Among the marble is found lead, silver and zinc (used to make brass) deposits
 
-
+# Harmless bandits
+- A group of harmless bandits who rob without murdering and don't always take all the treasure
+- The town constable won't allow them to be killed - a town has bandits no matter what, but their presence deters a worse threat from moving in
+- They have, however, robbed a caravan of alchemical supplies. This is high profile loot, and requires a significant contact to move, but can make a lot of profit. The constable wants these stolen back, he fears that the contacts could realize how harmless "Percival's kid's lot" actually are and dispatch a scarier band of ruffians to accost the town in their stead.
 
