@@ -1,0 +1,1 @@
+Consorts' day is a yearly festival at the village of [[Oakenhead]], which takes place on the second Sunday of Spring. The festival focuses on fertility and virginity, and the finding of a new bride for [[The Pretender]], 
