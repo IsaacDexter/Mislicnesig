@@ -1,5 +1,5 @@
 #location
-* Decently sized village about 25 miles south from [[Aloghsterre]], connected by [[Rassal’s Way]] as it winds from the eastern coast.
+* Decently sized village about 25 miles south from [[Aloghsterre]], connected by [[Aberfwyn#Aberfwyn Road]] as it winds from the eastern coast.
 * Host of [[#Leaden Pack Day]].
 # Leaden Pack Day
 * Springtime festival with focus on fertility.

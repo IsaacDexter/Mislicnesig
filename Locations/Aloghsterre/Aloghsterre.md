@@ -22,3 +22,9 @@
 * The walls of the throne room were embedded with [[Signetstone]] stars, a gift received from his prosperous alliances with members of [[Faerie]]; these wall stars would twinkle as if they were the stars above.
 * These stars were ripped out to forge signet rings and pose as nobles during [[The Blinking]]; which gave the dark period its name.
 # Stewards
+
+# Went Forest
+- Large, untamed forest in central Aloghsterre.
+- [[#Gone River]] passes through it.
+# Gone River
+- Major river in Aloghsterre that passes through [[#Went Forest]]
