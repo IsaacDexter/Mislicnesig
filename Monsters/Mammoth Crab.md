@@ -4,9 +4,7 @@ Type:
   - Beast
 AC: 20
 HP: 350
-Speed:
-  - 20 ft.
-  - Swim 20 ft.
+Speed: 20
 Alignment: Unaligned
 STR: 25
 DEX: 10
@@ -21,6 +19,7 @@ Skills:
 Proficiency Bonus: "+6"
 ---
 #fauna
+*20 ft. Swim*
 # Actions
 ## Multiattack
 * Claw & Claw

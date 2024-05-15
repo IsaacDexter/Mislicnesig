@@ -1,4 +1,5 @@
 #location 
+![[Map.png]]
 * Main setting for the campaign.
 * Officially recognises itself as a single country with a sole set of laws, warded over by a [[Aloghsterre#Stewards]], in this case [[Eustace II]], but in reality the country has been in disarray for its existence and is in fact made up of several countries, which for the most part remain peaceful with one another.
 * Officially ruled by it's steward, Eustace II, as acting ruler-in-waiting for [[The Starlit Prince]]’s return, but his rule isn’t recognised anywhere except internally within [[Aloghsterre]].
