@@ -1,1 +1,3 @@
-Consorts' day is a yearly festival at the village of [[Oakenhead]], which takes place on the second Sunday of Spring. The festival focuses on fertility and virginity, and the finding of a new bride for [[The Pretender]], 
+Consorts' day is a yearly festival at the village of [[Oakenhead]], which takes place on the second Sunday of Spring. The festival focuses on fertility and virginity, and the finding of a new bride for [[The Pretender]], who the residents believe is [[The Starlit Prince]].
+
+[[Oakenhead]] is a small village off [[Aberfwyn#Aberfwyn Road]], connecting the capital to the sleepy seaport of [[Aberfwyn]]. The road is scarcely travelled these days, thanks to the rise in popularity of [[Tackwell]] has rendered foot traffic to the village scarcer than ever, and it has settled into a sleepy monotony, producing food for the ever-busy capital.
