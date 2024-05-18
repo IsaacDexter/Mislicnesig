@@ -31,3 +31,7 @@
 * Once per day, a player may make a reading, wherein the dm reveals which card they draw which best describes the coming day to the best of their knowledge, giving vague answers to vague days.
 * Thinking of using/making an actual tarot set and mocking up my own card for the queen of holly reveal, perhaps with green holly shapes? Would certainly set up [[Red Mollie]] with a bang. 
 ## Urchin Guide
+
+# River Oaken
+
+# Broom Hill
