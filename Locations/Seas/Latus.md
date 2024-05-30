@@ -1,0 +1,2 @@
+#location 
+Warlike country from the continent to the west of [[Mislicnesig]]. Faith is monopolized there by [[Robus]]. Routinely, forces from Latus try to establish strongholds and worship of Robus on Mislicnesig, but they are never met with long-term success, and rarely short-term. This practice is growing less and less successful as well as frequent.

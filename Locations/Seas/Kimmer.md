@@ -1,0 +1,2 @@
+#location
+External forces from this country routinely send raiding parties to the North of [[Mislicnesig]] to pillage it and return slaves and plunder to their homeland. They have ceased trying to conquer the north-west & [[Crakeeyots]] thanks to [[Aln the Mad]].
