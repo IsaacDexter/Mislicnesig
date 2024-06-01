@@ -5,6 +5,15 @@
 * Officially ruled by it's steward, Eustace II, as acting ruler-in-waiting for [[The Starlit Prince]]’s return, but his rule isn’t recognised anywhere except internally within [[Aloghsterre]].
 * Somewhat consistent ecosystem reflective of England, with magic being the main cause for different biomes - it is colder further north, and more barren and snowy, while certain areas to the northeast are more coastal and almost Mediterranean.
 * No official religion, despite [[The Starlit Prince]] taking massive precedence within the capital: while the lands within Mislicnesig do not mind Eustace’s figurehead rule, they would resent a single religion being forced upon a region with such wildly diverse theologies.
+# Regions
+Mislicnesig is divided into several regions, or kingdoms, each comprising of different climate.
+- [[Aloghsterre]], a verdant, forested land containing many rivers. Ruled by [[Eustace II]].
+- [[Folahethe]], a land of rolling downland and pasture. Rural and sparse, controlled by vying nobility.
+- [[Tawdyrge]], consisting farmland and forest, with a great deal of coastal regions thanks to its twin estuaries. Incredibly split rulership, with much of the land 'controlled' by the puppet, [[Tawdyrge#Lord Asquer]].
+- [[Kitterland]], which hosts and incredibly varied and inhospitable fauna and climate, featuring giant bugs and crabs. Made up of mesas, deserts and sandy lowlands. Communities are rough and ready. It is undergoing exploitation at the hands of the [[Regal Consortium of Pulit-Aspell]].
+- [[Losian]], cut off from Kitterland by a range of mesas and buttes. Densely knotted trees and roots on chalky outcroppings. High dark cliffs, like Rock of Ages.
+- [[Dederlic]], a warring region of tall tors and moors, a varied region.
+- [[Banofdune]]
 # Calendar
 * There are several calendars of years used throughout [[Mislicnesig]], but they usually follow the same structure, simply following different years.
 * Calendars of saints vary wildly from region to region - some saints are seen in common, others are completely different. Not every religion has sainthood at all, let alone enough saints to require a calendar.
