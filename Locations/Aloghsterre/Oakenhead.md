@@ -33,5 +33,3 @@
 ## Urchin Guide
 
 # River Oaken
-
-# Broom Hill
