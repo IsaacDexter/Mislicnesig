@@ -1,7 +1,7 @@
 #location
 * Decently sized village about 25 miles south from [[Aloghsterre]], connected by [[Aberfwyn#Aberfwyn Road]] as it winds from the eastern coast.
 * Host of [[#Leaden Pack Day]].
-# Leaden Pack Day
+# Consorts' Day
 * Springtime festival with focus on fertility.
 * Drinking magic merriment .
 * In honour of the false prince .
@@ -14,7 +14,7 @@
 * But big focus on the fact you aren't on the hill .
 * Eventually [[Fairies]] wearing the cloaks arrive but the cloaks are too long and the goat skulls are not picked clean right, they stink and you can't imagine how bad it smells under the cloak .
 * They charm you to go to the hill where dozens and dozens of the cloaked figures are, with seemingly none of the lovers you expected .
-* In reality the festival is for [[The Pretender]] to get maidens to use to build alliances within [[Faerie]] as a pawn for [[Red Mollie]].
+* In reality the festival is for [[Ayle Hermand]] to get maidens to use to build alliances within [[Fairyland]] as a pawn for [[Red Mollie]].
 * I haven't figured out what the cloaked figures are doing, I think its fairy mischief where they're trying to kidnap lovers and steal their future children to swap them with changelings and other weird stuff .
 * Eerily beautiful androgynous rider organised everyone into a dance maybe dancing the whole night for him to find another to wed?
 * All the people so tired but each time they dance with a fae they receive a strange energy that doesn't rejuvenate just makes them forget their tiredness for a spell.

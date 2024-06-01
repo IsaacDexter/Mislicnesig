@@ -1,0 +1,16 @@
+#location
+As the second of the prince's colleges, RUM was founded with the intention of training folk to assist in navigation, diplomacy and commerce with the kingdoms of the island, not least of all the kingdom of [[Fairyland]]. As such, its curriculum is surprisingly unfocused on magic, and it is markedly the most elite of the three colleges.
+Since the prince's disappearance, the focus on fairy relations has almost completely subsided, though one may certainly find fairy anthropologists in the dusty towers and far-fetched wings of the grandiose building.
+___
+Nowadays, studies in trade and commerce have dwarfed the other areas of study at the university, and created a sense of elitism amongst the higher echelons of mercantile society: without a scholarship from RUM, one will find it near impossible to broker relations with the island's trade giants. Attendees are referred to as '[[#Rummies]]', and enjoy an unmatched level of prestige in trading circles.
+However, students do still attend and apply to the cartography, navigation, linguistics, relations, heraldry and anthropology courses. These students are vastly outnumbered by Rummies, and their teaching resources are slim. As such, they form a great bond with their teaching staff, and know each other as the '[[#Last Academics]]'.
+___
+RUM is dwarfed by the sprawling [[#Aeghwelc]], but is certainly larger than the intimate [[#Weolcantam]]. It features some of the most extravagance of the three, thanks to the excessive spending by the staff and patrons of the rummies. Tall, white towers, roomy corridors and elaborate masonry and tiling give an air of exclusivity and elegance. 
+Run down areas of the school's dwindling north wing house the few academics present in the college. These areas are more dusty, less financed and are beginning to show signs of neglect. They aren't run down, as the college needs to maintain it showy exterior, but they clearly don't receive as much spending as those in the school of commerce.
+## Rummies
+Snide, pompous, and self-absorbed, Rummies come to RUM not out of a want for learning, but more in pursuit of a mandatory qualification. Work is not strict, and all but the dimmest of students can coast by, though those who truly do wish to succeed have the opportunity to do so - some Last Academics do, in fact, study the commerce courses.
+Rummies are almost universally hated by the other colleges due to their cavalier attitude, and bully Last Academics relentlessly.
+## Last Academics
+Unlike the aloof rummies, Last Academics are devoted to their niche study, and form intimate bonds with the few members of teaching staff still on payroll. 
+The lack of focus of magic besides divination and enchantment in the curriculum (especially in the trade and commerce courses) renders them a subject of ridicule from students of Aeghwelc, and the rivalry between themselves and the rummies is deep and bitter. They do, however, have the respect of Weolcantam students, thanks to their dedication to their pursuits. There is much collaboration between the students and staff of these two groups.
+In general, they don't have ample opportunity to carouse, and are often shy towards strangers. However, they adore the chance to discuss their subjects of choice, and a wealth of knowledge on whatever obscure area they are being asked about.

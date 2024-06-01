@@ -1,0 +1,2 @@
+#faction 
+Noble house within [[Fairyland]] that once made successful efforts to conquer [[Mislicnesig]] ([[Hollytide]]), under the head of [[Puttock, Holly King]]. Now working alongside the [[House of Ichor]] to launch a reinvasion through [[Routes Between]] at the behest of [[Red Mollie]].

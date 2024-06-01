@@ -2,7 +2,7 @@
 * 0 YS to 477 YS.
 * [[The Starlit Prince]] emerged with unparalleled and inconceivable magic, rose to power and prominence, uniting the lands.
 * It was a time of peace. The prince-turned-king was so great no one could hope to dethrone him, nor did anyone want to: he was a wise and benevolent king who brought progress and unity to the lands.
-* Progress and unity between the material plane and kingdoms within [[Faerie]] grew as the king made alliances and built roads and bastions in these lands.
+* Progress and unity between the material plane and kingdoms within [[Fairyland]] grew as the king made alliances and built roads and bastions in these lands.
 * Great magical progress ensued also, The Prince trained students, [[The Three Colleges]] were founded and a great many books were penned. It can be said it was The Prince who brought magic to prominence upon the isle.
 * Most gods dwindled to embers, and many were extinguished: folks had no need to believe in a god when the selfless prince could perform miracles for them.
 * The Prince never waged war against gods, there was simply little need for them and they dwindled.

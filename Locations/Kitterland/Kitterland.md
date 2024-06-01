@@ -41,6 +41,6 @@ Individual communities usually immigrated from regions throughout [[Mislicnesig]
 # History
 Kitterland remained mostly uninhabited until recent centuries, when advancements in sea travel and international trade, brought about during the [[Age of Persecution]], prompted the formation of the [[Regal Consortium of Pulit-Aspell]], who intentionally made moves to bring folk into the region. 
 
-Ancient history in the region is not non-existent, but little artefacts of it exist. There is no real material to build longstanding structures, so little exist. [[The Routes Between]] were not reopened in this region during the [[Reign of Starlight]], and [[Puttock, Holly King]]'s forces during [[Hollytide]] ceased intervention in the region after losing too much the inhospitable lands
+Ancient history in the region is not non-existent, but little artefacts of it exist. There is no real material to build longstanding structures, so little exist. [[Routes Between]] were not reopened in this region during the [[Reign of Starlight]], and [[Puttock, Holly King]]'s forces during [[Hollytide]] ceased intervention in the region after losing too much the inhospitable lands
 
 Some hardy communities predate the consortiums intervention. It wasn't completely devoid of civilization, just a very wild area of the world.

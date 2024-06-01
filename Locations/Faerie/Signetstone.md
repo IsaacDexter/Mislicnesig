@@ -1,5 +1,5 @@
 #item
-* Rare and precious mother-of-pearl-like stone found underground in [[Faerie]].
+* Rare and precious mother-of-pearl-like stone found underground in [[Fairyland]].
 * Retains the same lustre all inside as well as all over, and can be found in large quantities, even to the size of boulders.
 * Infuriates mining dwellers of [[Mislicnesig]], who believe the stone far more abundant than the fairies realise, as fairies never host mining operations of any real size.
 * Most of the supply of Signetstone in [[Mislicnesig]] was in the possession of [[The Starlit Prince]], used as a barter good from his fey allies.
@@ -9,4 +9,4 @@
 * Some of the stone was brought over during the [[Hollytide]], where it was worn as pendants and rings by the invading force.
 * Little of these artefacts remain in [[Mislicnesig]], many were originally magical or have been enchanted since.
 * All are treated as most prized treasures indeed.
-* Aside from other tiny imports over the years, the final import was performed without the public's knowledge by [[Red Mollie]], when she gifted it to [[The Pretender]] to assist in her plans of designing a deity
+* Aside from other tiny imports over the years, the final import was performed without the public's knowledge by [[Red Mollie]], when she gifted it to [[Ayle Hermand]] to assist in her plans of designing a deity

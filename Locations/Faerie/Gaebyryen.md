@@ -1,4 +1,4 @@
 #flora
-* Mild hallucinogenic from all over [[Faerie]], full of magic.
-* Sprouts at the spouts of [[The Routes Between]].
+* Mild hallucinogenic from all over [[Fairyland]], full of magic.
+* Sprouts at the spouts of [[Routes Between]].
 * Used in the brewing of [[Fairy Wine]].
