@@ -2,7 +2,7 @@
 ![[Map.png]]
 * Main setting for the campaign.
 * Officially recognises itself as a single country with a sole set of laws, warded over by a [[Aloghsterre#Stewards]], in this case [[Eustace II]], but in reality the country has been in disarray for its existence and is in fact made up of several countries, which for the most part remain peaceful with one another.
-* Officially ruled by it's steward, Eustace II, as acting ruler-in-waiting for [[The Starlit Prince]]’s return, but his rule isn’t recognised anywhere except internally within [[Aloghsterre]].
+* Officially ruled by it's steward, [[Eustace II]], as acting ruler-in-waiting for [[The Starlit Prince]]’s return, but his rule isn’t recognised anywhere except internally within [[Aloghsterre]].
 * Somewhat consistent ecosystem reflective of England, with magic being the main cause for different biomes - it is colder further north, and more barren and snowy, while certain areas to the northeast are more coastal and almost Mediterranean.
 * No official religion, despite [[The Starlit Prince]] taking massive precedence within the capital: while the lands within Mislicnesig do not mind Eustace’s figurehead rule, they would resent a single religion being forced upon a region with such wildly diverse theologies.
 # Regions
@@ -11,7 +11,7 @@ Mislicnesig is divided into several regions, or kingdoms, each comprising of dif
 - [[Folahethe]], a land of rolling downland and pasture. Rural and sparse, controlled by vying nobility.
 - [[Tawdyrge]], consisting farmland and forest, with a great deal of coastal regions thanks to its twin estuaries. Incredibly split rulership, with much of the land 'controlled' by the puppet, [[Tawdyrge#Lord Asquer]].
 - [[Kitterland]], which hosts and incredibly varied and inhospitable fauna and climate, featuring giant bugs and crabs. Made up of mesas, deserts and sandy lowlands. Communities are rough and ready. It is undergoing exploitation at the hands of the [[Regal Consortium of Pulit-Aspell]].
-- [[Losian]], cut off from Kitterland by a range of mesas and buttes. Densely knotted trees and roots on chalky outcroppings. High dark cliffs, like Rock of Ages.
+- [[Losian]], cut off from [[Kitterland]] by a range of mesas and buttes. Densely knotted trees and roots on chalky outcroppings. High dark cliffs, like Rock of Ages.
 - [[Dederlic]], a warring region of tall tors and moors, a varied region.
 - [[Banofdune]]
 # Calendar
@@ -32,3 +32,5 @@ Mislicnesig is divided into several regions, or kingdoms, each comprising of dif
 	* The key exception to this was [[The Starlit Prince]], to whom the practice of arcane study was as much worship as anything else. It is thanks to this and the powerful arcane seals cast by [[The Starlit Prince]] that [[The Three Colleges]] remain open.
 * Gods incited their followers to shun the arcane, instead promoting acting as a conduit for divine magic through Oaths and The Clergy.
 * Druidic magic is exempt to this hatred however, as the gods do not fear it - druids reside in conclave and are secretive: until druids share their wealth of knowledge with the greater world, druidic magic will never be a threat to the gods and lords.
+# Gods, Men and Fairies
+The conflict in Mislicnesig ultimately revolves around upsetting the balance of the three dominant forces present within man: civilization, nature, stories. These three forces represent the conscious, subconscious and instinctual desires within us: the desire for direct impact on the world (individual), the desire for influence on and rewards from those who impact the world (paternal), and the desire for the world itself to love and care for us (maternal). These forces are represented by Men, Gods, and [[Fairies]].

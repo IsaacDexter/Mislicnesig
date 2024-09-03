@@ -17,6 +17,7 @@
 - Trawler fishing but along prairies with giant nets catching livestock from above  
 - Nomadic people who train truffle pigs to root out treasure and relics from fresh battlefields  
 - City in a hollowed out Pompeii-style giant/giants with stairs going up the inside  
+- Sailing against the wind (tacking) is the recent advance in seafaring 
 # Laughing Tam
 * A quest to the [[Crakeeyots]] to get information from an old temple belonging to a rare one indeed: a deified fairy folk hero, laughing tam .
 * Rather than finding his temple devoid, however, tam is still there, thanks to sailors gift faith, though weak.
