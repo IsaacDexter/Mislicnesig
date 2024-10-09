@@ -7,7 +7,7 @@ Tacking (sailing against the wind) is yet to be invented, making sea travel dang
 This land was once unified under a single banner - that of *[[The Starlit Prince]]*, who founded the capital of *[[Aloghsterre]]* and brought peace and prosperity to a squabbling land. He ratified the noble families by gifting them rings of *[[Signetstone]]*, a rare stone rumoured to be from [[Fairyland]] - without such a ring, a noble family was considered illegitimate. After a period of great growth and civilization, however, the prince disappeared, leaving his glass throne shattered on the floor of his palace, *Wag Gleomu*. Noble families broke into war over the remaining [[Signetstone]] that lined the walls of his throne room, and the land remains fractured amongst warring nobility, even after all these centuries.
 
 Nowadays, the land is split into ten kingdoms, each lying on an uneasy bedrock of brittle alliances and dubious aristocracy.
-- **[[Aloghsterre]]**, a agricultural land to the east. Home of the capital. A thriving and verdant land dominated by the vast forest of *Went*
+- **[[Aloghsterre]]**, an agricultural land to the east. Home of the capital. A thriving and verdant land dominated by the vast forest of *Went*
 - **[[Attermoor]]**, a swampy moorland. To the west is *The [[Bletch]]*, a vile swamp and the birthplace of *Green [[Dragonborn]]*.
 - **[[Banofdune]]**, a harsh heath dominated by mountains in the northeast. An abundance of valuable minerals have helped the underground folk here grow rich.
 - **[[Dasheal]]**, a twisting, overgrown labyrinth of caves and rivers. Impossible to navigate without a guide.
@@ -37,4 +37,4 @@ Many gods are localized, but some have a kingdom wide presence:
 For the most part, however, different regions play home to dozens of different gods. *Small Gods* are those gods whose temples outlast their followers. They are trapped, powerless in their crumbling shrines, desperately begging for faith.
 
 # The State of the party
-You are all to meet at *[[Oakenhead]]*, a small village on the road between *[[Aloghsterre]]* and the coastal town of *[[Aberfwyn]]*. There is a agricultural fair and festival at the village, accompanied by a banquet. This festival isn't famous, but you might've heard of it from a local, a tourist, or simply stumbled upon it on the way to somewhere nearby
+You are all to meet at *[[Oakenhead]]*, a small village on the road between *[[Aloghsterre]]* and the coastal town of *[[Aberfwyn]]*. There is an agricultural fair and festival at the village, accompanied by a banquet. This festival isn't famous, but you might've heard of it from a local, a tourist, or simply stumbled upon it on the way to somewhere nearby
