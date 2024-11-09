@@ -1,4 +1,3 @@
-#race
 ![The Seelie Court](https://upload.wikimedia.org/wikipedia/commons/7/72/Fairies_by_H.J._Ford.jpg)
 *The Seelie Court (How the Fairies came to see Ogier the Dane, by Henry Justice Ford)*
 # Language
