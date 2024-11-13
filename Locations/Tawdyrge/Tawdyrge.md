@@ -1,4 +1,5 @@
 #location 
+![[Tawdyrge.png]]
 - Large and verdant Fiefdom to the south of [[Mislicnesig]], of which [[Molan]] is a burgage
 - Ruled over by [[#Lord Asquer]], the land is hardly opposed but there is much contention
 - Land is steadily giving rise to theological tensions between ancestrally indigenous groups (primarily elven and gnomish) who predominantly worship [[Gelwaré]], and subscribers to the more modern [[Larewes]] Pantheon
