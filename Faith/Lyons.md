@@ -1,4 +1,5 @@
-The most recent of the native gods of Tawdyrge, the Lyons encourage craftmanship, masonry and architecture. As gods of spectacle and beautiful living, they merge the **Gelwaréan** appreciation of nature with the fervent love of craft fostered by the industrious gods of **Larewes**. Followers ideally engage in the honing of their own artistic talents, speech and betterment of the soul, though the seed of luxury has also fostered a deep greed and insecurity amongst its worshipers.
+#faith
+The most recent of the native gods of [[Tawdyrge]], the Lyons encourage craftmanship, masonry and architecture. As gods of spectacle and beautiful living, they merge the **Gelwaréan** appreciation of nature with the fervent love of craft fostered by the industrious gods of **[[Larewes]]**. Followers ideally engage in the honing of their own artistic talents, speech and betterment of the soul, though the seed of luxury has also fostered a deep greed and insecurity amongst its worshipers.
 
 The temples of Lyons are whole cities, their names and images are carved as frescoes upon the very walls. Shrines honouring their grace are constructed into public houses and streets. Vigils and feasts in celebration to them coincide with the completion of grand architectural projects. As such, their worship is uniquely urban.
 

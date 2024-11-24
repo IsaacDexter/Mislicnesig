@@ -30,7 +30,7 @@ The most recent of the native gods of Tawdyrge, the Lyons encourage craftmanship
 
 The temples of Lyons are whole cities, their names and images are carved as frescoes upon the very walls. Shrines honouring their grace are constructed into public houses and streets. Vigils and feasts in celebration to them coincide with the completion of grand architectural projects. As such, their worship is uniquely urban.
 
-The principle gods of Lyons are **Lugus**, and his wife, **Leiden**. They are followed by their many children. What follows are Cities built in honour of Lyons, worshipped as sacred personifications. 10 of the most notable gods are the following:
+The principle gods of Lyons are **Lugus**, and his wife, **Leiden**. They are followed by their many children. Following these are the deified cities built in honour of Lyons.
 - **Lugus**, patriarchal god of walls, masonry, and protection. 
 - **Leiden**, wife of Lugus. Goddess of sculpture, carving, and beauty. 
 - **Natron**, goddess of glass, truth, and children.
