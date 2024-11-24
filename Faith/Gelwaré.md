@@ -6,3 +6,7 @@
 - In return, she blesses her followers with visions of bounty in times of need, with knowledge of the land in her sleep, and the skills to navigate the land from the earth
 # Saint Vaul
 - Achieved Sainthood of Gelwaré after fighting transgressors who attempted to denude the forests of [[Carévessa]]
+
+**Gelwaré**, the spirit of the vast forest of Carevessa, presides over rural, nomadic communities and conclaves. She is of the oldest gods of Tawrdyrge: land deities and river spirits who are said to have presided in the region long before settlement. Worship is tribal and ritualistic, involving ceremonial burnings, animal sacrifice, and displays of devotion to sacred and sublime natural features.
+
+Her followers are traditional, cautious and quick tempered. Although they were persecuted to some extent as pagans, the defence of their holy sites has turned to violent conflict, and these people are considered both a danger and an enemy to both the industrious **Larewes** and the opulent **Lyons**.
