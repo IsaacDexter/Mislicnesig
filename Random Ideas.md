@@ -5,7 +5,6 @@
 - Forest whose trees are an octopus' tentacles laying a trap  
 - Snow pirates who orchestrate carefully magically designed avalanches using magic and slide in giant toboggan like ships, like a big network or ski slope  
 - Sky society made of tribals who tame bugs and either ride giant ones or trap little ones in sacks like balloons  
-- Giant hermit crab nestled inside a giant skull with a mausoleum carved into it - which came first, the crab or the carvers?  
 - Desert dwarves who build underground pyramids and direct sandstorms with giant stone wind funnels as transportation/a weapon/method of control  
 - Dwarves in lush mines flourishing with moss  
 - Elves in abandoned variants of said mines cultivating moss and mushrooms  
