@@ -1,11 +1,16 @@
-1. **The Holly King** conquers Fairyland and occupies Mislicnesig.
-2. **The Holly King** ascends to godhood, but his fickle fairy subjects forget him.
-3. **Mad Aln** conquers Oferlecgan and drives the Aboleths from their home in the Crakeeyots.
+1. **The Holly King** conquers Fairyland and opens route to Mislicnesig.
+2. **The Holly King** ascends to godhood, but is forgotten in the civil war for his succession and abandoned in the Crakeeyots, which becomes the only extant route between Fairyland and Mislicnesig.
+3. **Mad Aln** conquers Oferlecgan, separating Mislicnesig from the Crakeeyots and, by extension, Fairyland.
 4. **The Mire Queen** conquers Attermoor and creates the Green Dragonborn.
-5. Aboleths drive **Mad Aln** to fight and kill **The Mire Queen**, believing it would kill Aln, though he is only blinded.
-6. Green Dragonborn posthumously deify **The Mire Queen**, though she lacks her original will, unlike an ascended mortal.
-7. Evil deities seek to recreate **The Mire Queen**'s deification after death, and use it to create a puppet god, so empower **The Starlit Prince** to conquer Mislicnesig.
-8. 
+5. **The Holly King** uses the last of his strength drive **Aln** to fight and kill **The Mire Queen**, believing it would kill **Aln**, though he is only blinded and driven mad.
+6. Gods seek to control **Aln** further, but reach an equilibrium that leaves him inert.
+7. Green Dragonborn posthumously deify **The Mire Queen**, though she lacks her original will, unlike an ascended mortal.
+8. Gods seek to recreate **The Mire Queen**'s deification after death, and use it to create a puppet god, so empower **The Starlit Prince** to conquer Mislicnesig.
+9. **The Starlit Prince** opens routes to Fairyland at will and allies with his consort, **The Red Queen**, who wishes to rule Mislicnesig and Fairyland together.
+10. **The Holly King** reveals to **The Starlit Prince** the gods' plot to martyr him, and convinces him to join him in godhood and help control Aln to conquer the gods before Fairyland and Mislicnesig.
+11. **The Red Queen** knew not of the gods' plot, and, believing herself to be forsaken and betrayed by her lover, seeks to conquer Fairyland and then Mislicnesig.
+13. The gods' puppet cult, the Starlit Servants, rises in place of the king, but the plotting gods' influence is limited by **The Starlit Prince**'s survival.
+14. **The Red Queen**'s uses her puppet cult, the Consorts, to kidnap maidens from Mislicnesig as diplomatic gifts to unify fairyland, unaware that it continues to draw power from her supposedly deceased lover **The Starlit Prince**, preventing him and **The Holly King** from dominating **Aln**.
 # Prologue
 ## The Prince and Fairyland
 1. The Starlit Prince forged alliances with Fairyland so that he could secretly transport goods and troops into enemy territory using The Routes Between, old warpaths left over from the Holly King's invasion of Mislicnesig.
