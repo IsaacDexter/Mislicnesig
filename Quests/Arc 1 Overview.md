@@ -1,3 +1,11 @@
+1. **The Holly King** conquers Fairyland and occupies Mislicnesig.
+2. **The Holly King** ascends to godhood, but his fickle fairy subjects forget him.
+3. **Mad Aln** conquers Oferlecgan and drives the Aboleths from their home in the Crakeeyots.
+4. **The Mire Queen** conquers Attermoor and creates the Green Dragonborn.
+5. Aboleths drive **Mad Aln** to fight and kill **The Mire Queen**, believing it would kill Aln, though he is only blinded.
+6. Green Dragonborn posthumously deify **The Mire Queen**, though she lacks her original will, unlike an ascended mortal.
+7. Evil deities seek to recreate **The Mire Queen**'s deification after death, and use it to create a puppet god, so empower **The Starlit Prince** to conquer Mislicnesig.
+8. 
 # Prologue
 ## The Prince and Fairyland
 1. The Starlit Prince forged alliances with Fairyland so that he could secretly transport goods and troops into enemy territory using The Routes Between, old warpaths left over from the Holly King's invasion of Mislicnesig.
